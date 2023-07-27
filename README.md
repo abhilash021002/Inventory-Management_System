@@ -1,4 +1,4 @@
-##**Inventory Management Web Application 📦**
+**Inventory Management Web Application 📦**
 Welcome to the Inventory Management Web Application! This application is built using the Flask framework and provides a user-friendly interface to manage inventory for a list of products in various warehouses. Whether you run a shop or manage a warehouse, this application will help you keep track of your products and their respective locations efficiently.
 
 ##Functionality 🛠️
