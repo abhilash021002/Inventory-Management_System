@@ -10,23 +10,32 @@ The application covers the following key functionalities:
 **Location:** This table keeps track of different warehouse locations. Each location is identified by a unique location_id.
 
 **ProductMovement:** This table records the movement of products between different locations. It includes movement_id, timestamp, from_location, to_location, product_id, and qty fields.
+## Summary Page
+![This is a Summary Page](https://github.com/Surya01122002/Inventory-Management-System/assets/95231128/274f530b-2469-4c13-859a-1c56711f9765)
+![Screenshot (316)](https://github.com/Surya01122002/Inventory-Management-System/assets/95231128/11cf2396-adbd-4ab5-82a1-53d5c838c062)
 
 # Views 👀
 The application provides easy-to-use views for the following entities:
-
+# Stock Page
+![Screenshot (317)](https://github.com/Surya01122002/Inventory-Management-System/assets/95231128/d3b74119-846b-42e4-abd3-849b5c6fb256)
 ## Product:
 **1.Add new products.**
 
 **2.Edit existing product details.**
 
 **3.View the list of products with their respective information.**
+
+# Warehouses Page
+![Screenshot (318)](https://github.com/Surya01122002/Inventory-Management-System/assets/95231128/8e47b697-29b6-4bec-a36a-a0832713491f)
 ## Location:
 **1.Add new warehouse locations.**
 
 **2.Edit existing location details.**
 
 **3.View the list of warehouse locations with their respective information.**
-
+# Logistics Page
+![Screenshot (319)](https://github.com/Surya01122002/Inventory-Management-System/assets/95231128/61bb1238-be0a-4ae0-a462-5ff0d1afd8d6)
+![Screenshot (320)](https://github.com/Surya01122002/Inventory-Management-System/assets/95231128/8aaa0be1-8290-444d-aa51-278550e00e4a)
 ## ProductMovement:
 Add new product movements to record the transfer of products between locations.
 Edit existing movement details if necessary.
