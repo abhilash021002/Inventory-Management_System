@@ -11,9 +11,6 @@ The application covers the following key functionalities:
 
 **ProductMovement:** This table records the movement of products between different locations. It includes movement_id, timestamp, from_location, to_location, product_id, and qty fields.
 
-![This is our Summary Page]
-
-(https://imgur.com/0KstuZN)
 # Views 👀
 The application provides easy-to-use views for the following entities:
 
