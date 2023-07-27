@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='builtin/styles.css') }}">
+</head>
+<body>
+       <img src="{{ url_for('static', filename='site_icon.png') }}" alt="Logo" style="width:50px;margin-right;">
+            <div class="text">
+                <p>INVENTORY MANAGEMENT SYSTEM</p>
+            </div>
+    <div class="login-container">
+        <h1>Login</h1>
+        <form method="post">
+            <input type="name" name="name" placeholder="Admin" required>
+            <input type="password" name="password" placeholder="Password" required>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+</body>
+</html>
